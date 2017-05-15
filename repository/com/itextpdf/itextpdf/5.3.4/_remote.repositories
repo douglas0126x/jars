@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:26:44 CST 2017
+itextpdf-5.3.4.jar>central=
+itextpdf-5.3.4.pom>central=
+itextpdf-5.3.4.jar>nexus-releases=
+itextpdf-5.3.4.pom>nexus-releases=

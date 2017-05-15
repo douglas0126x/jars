@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 17 19:20:37 CST 2017
+slf4j-log4j12-1.7.7.jar>nexus-releases=
+slf4j-log4j12-1.7.7.pom>nexus-releases=
+slf4j-log4j12-1.7.7.pom>central=

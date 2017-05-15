@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:40:15 CST 2017
+guava-11.0.1.jar>central=
+guava-11.0.1.pom>central=
+guava-11.0.1.jar>nexus-releases=
+guava-11.0.1.pom>nexus-releases=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:39:55 CST 2017
+jsr311-api-1.0-sources.jar>central=
+jsr311-api-1.0.pom>central=
+jsr311-api-1.0.pom>nexus-releases=

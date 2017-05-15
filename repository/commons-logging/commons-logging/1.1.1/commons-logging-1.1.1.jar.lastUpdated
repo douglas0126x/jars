@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 10:54:33 CST 2016
+@default-JD\ maven2\ repository-http\://artifactory.360buy-develop.com/libs-releases-local/.lastUpdated=1479783265988
+@default-central-http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783263475
+http\://artifactory.360buy-develop.com/libs-snapshots-local/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to JD maven2 snapshots (http\://artifactory.360buy-develop.com/libs-snapshots-local)\: Failed to transfer http\://artifactory.360buy-develop.com/libs-snapshots-local/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar. Error code 409, Conflict
+http\://artifactory.360buy-develop.com/libs-releases/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to central (http\://artifactory.360buy-develop.com/libs-releases)\: The operation was cancelled.
+@default-JD\ maven2\ repo1-cache-http\://artifactory.360buy-develop.com/repo1-cache/.lastUpdated=1479783268777
+http\://artifactory.360buy-develop.com/libs-snapshots/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to snapshots (http\://artifactory.360buy-develop.com/libs-snapshots)\: The operation was cancelled.
+@default-snapshots-http\://artifactory.360buy-develop.com/libs-snapshots/.lastUpdated=1479783265111
+@default-JD\ maven2\ snapshots-http\://artifactory.360buy-develop.com/libs-snapshots-local/.lastUpdated=1479783273025
+http\://artifactory.360buy-develop.com/libs-releases-local/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to JD maven2 repository (http\://artifactory.360buy-develop.com/libs-releases-local)\: The operation was cancelled.
+http\://artifactory.360buy-develop.com/repo1-cache/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to JD maven2 repo1-cache (http\://artifactory.360buy-develop.com/repo1-cache)\: The operation was cancelled.
+@default-JD\ maven2\ repo-http\://artifactory.360buy-develop.com/repo/.lastUpdated=1479783267842
+http\://artifactory.360buy-develop.com/repo/.error=Could not transfer artifact commons-logging\:commons-logging\:jar\:1.1.1 from/to JD maven2 repo (http\://artifactory.360buy-develop.com/repo)\: The operation was cancelled.

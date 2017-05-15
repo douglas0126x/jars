@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:40:15 CST 2017
+cglib-2.2.jar>central=
+cglib-2.2.jar>nexus-releases=
+cglib-2.2.pom>nexus-releases=
+cglib-2.2.pom>central=
+cglib-2.2-sources.jar>central=

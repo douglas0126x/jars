@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:40:15 CST 2017
+http\://10.1.20.6\:8081/nexus/content/repositories/public/.lastUpdated=1492065615292
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1479783261795
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact cglib\:cglib\:jar\:2.2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

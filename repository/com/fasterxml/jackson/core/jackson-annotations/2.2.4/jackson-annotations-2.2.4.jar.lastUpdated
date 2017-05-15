@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:40:15 CST 2017
+http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783262392
+http\://10.1.20.6\:8081/nexus/content/repositories/public/.lastUpdated=1492065615527
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1479783261866
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:jar\:2.2.4 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 08 17:07:55 CST 2017
+@default-https\://raw.github.com/henryyan/mavenrepo/master/releases/.lastUpdated=1488964040033
+@default-http\://repository.muleforge.org/release/.lastUpdated=1488964075038
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1488964051391
+http\://repository.muleforge.org/release/.error=Could not transfer artifact org.apache.commons\:commons-email\:pom\:1.2 from/to muleforge-repo-release (http\://repository.muleforge.org/release)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1488964075724
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1488964055028
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.error=Could not transfer artifact org.apache.commons\:commons-email\:pom\:1.2 from/to henryyan-mavenrepo (https\://raw.github.com/henryyan/mavenrepo/master/releases)\: \u8FD9\u662F\u5728\u4E3B\u673A\u540D\u89E3\u6790\u65F6\u901A\u5E38\u51FA\u73B0\u7684\u6682\u65F6\u9519\u8BEF\uFF0C\u5B83\u610F\u5473\u7740\u672C\u5730\u670D\u52A1\u5668\u6CA1\u6709\u4ECE\u6743\u5A01\u670D\u52A1\u5668\u4E0A\u6536\u5230\u54CD\u5E94\u3002
+@default-http\://repository.muleforge.org/.lastUpdated=1488964065032
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.muleforge.org/.error=Could not transfer artifact org.apache.commons\:commons-email\:pom\:1.2 from/to muleforge-repo (http\://repository.muleforge.org)\: connect timed out

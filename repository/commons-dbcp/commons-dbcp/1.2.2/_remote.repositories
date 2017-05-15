@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 17 19:20:37 CST 2017
+commons-dbcp-1.2.2.jar>nexus-releases=
+commons-dbcp-1.2.2.pom>nexus-releases=
+commons-dbcp-1.2.2.jar>central=
+commons-dbcp-1.2.2.pom>central=

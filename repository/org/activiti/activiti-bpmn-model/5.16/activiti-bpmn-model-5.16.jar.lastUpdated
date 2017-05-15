@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 08 17:36:34 CST 2017
+@default-http\://repository.muleforge.org/release/.lastUpdated=1488965744238
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1488965116585
+http\://repository.muleforge.org/release/.error=Could not transfer artifact org.activiti\:activiti-bpmn-model\:jar\:5.16 from/to muleforge-repo-release (http\://repository.muleforge.org/release)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1488965794184
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1488965302974
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.error=
+@default-http\://repository.muleforge.org/.lastUpdated=1488965524074
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.muleforge.org/.error=Could not transfer artifact org.activiti\:activiti-bpmn-model\:jar\:5.16 from/to muleforge-repo (http\://repository.muleforge.org)\: connect timed out
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.lastUpdated=1488965028585

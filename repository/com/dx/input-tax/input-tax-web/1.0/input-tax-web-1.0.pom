@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.dx.input-tax</groupId>
+		<artifactId>input-tax</artifactId>
+		<version>1.0</version>
+	</parent>
+	<artifactId>input-tax-web</artifactId>
+	<properties>
+		<cxf.version>2.2.5</cxf.version>
+	</properties>
+	<packaging>war</packaging>
+	<name>input-taxerp web</name>
+	<url>http://input-tax.test.jd.com</url>
+	<profiles>
+		<profile>
+			<id>development</id>
+			<properties>
+				<runProType>test</runProType>
+				<log.level>DEBUG</log.level>
+				<log.path>/export/Logs/fm-task.jd.com/</log.path>
+			</properties>
+		</profile>
+		<profile>
+			<id>production</id>
+			<properties>
+				<runProType>run</runProType>
+				<log.level>INFO</log.level>
+				<log.path>/export/Logs/fm-task.jd.com/</log.path>
+			</properties>
+		</profile>
+	</profiles>
+	<dependencies>
+		<dependency>
+			<groupId>com.dx.input-tax</groupId>
+			<artifactId>input-tax-common</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring</artifactId>
+			<version>2.5.6</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>jd-web</finalName>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<filtering>true</filtering>
+			</resource>
+		</resources>
+	</build>
+</project>

@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 08 17:07:17 CST 2017
+@default-http\://repository.muleforge.org/release/.lastUpdated=1488964036339
+http\://repository.muleforge.org/release/.error=Could not transfer artifact org.activiti\:activiti-image-generator\:pom\:5.16 from/to muleforge-repo-release (http\://repository.muleforge.org/release)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1488964037187
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1488964013063
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1488964016307
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.activiti\:activiti-image-generator\:pom\:5.16 from/to Activiti (https\://maven.alfresco.com/nexus/content/groups/public)\: connect timed out
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.error=
+@default-http\://repository.muleforge.org/.lastUpdated=1488964026334
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.muleforge.org/.error=Could not transfer artifact org.activiti\:activiti-image-generator\:pom\:5.16 from/to muleforge-repo (http\://repository.muleforge.org)\: connect timed out
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.lastUpdated=1488964003054

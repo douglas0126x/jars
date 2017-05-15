@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:40:16 CST 2017
+maven-compiler-plugin-2.0.2.jar>nexus-releases=
+maven-compiler-plugin-2.0.2.pom>nexus-releases=
+maven-compiler-plugin-2.0.2.jar>central=
+maven-compiler-plugin-2.0.2.pom>central=

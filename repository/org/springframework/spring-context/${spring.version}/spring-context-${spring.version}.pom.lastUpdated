@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 17 17:44:40 CST 2017
+http\://10.1.20.6\:8081/nexus/content/repositories/public/.error=Could not transfer artifact org.springframework\:spring-context\:pom\:${spring.version} from/to nexus-releases (http\://10.1.20.6\:8081/nexus/content/repositories/public/)\: Illegal character in path at index 92\: http\://10.1.20.6\:8081/nexus/content/repositories/public/org/springframework/spring-context/${spring.version}/spring-context-${spring.version}.pom
+@default-http\://10.1.20.6\:8081/nexus/content/repositories/public/.lastUpdated=1492422280108

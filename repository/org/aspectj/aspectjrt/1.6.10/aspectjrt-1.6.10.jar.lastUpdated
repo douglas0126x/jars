@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 10:56:05 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1479783261887
+http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783365243
+@default-JD\ maven2\ repository-http\://artifactory.360buy-develop.com/libs-releases-local/.lastUpdated=1479783265283
+@default-central-http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783262514
+http\://artifactory.360buy-develop.com/libs-snapshots-local/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to JD maven2 snapshots (http\://artifactory.360buy-develop.com/libs-snapshots-local)\: Failed to transfer http\://artifactory.360buy-develop.com/libs-snapshots-local/org/aspectj/aspectjrt/1.6.10/aspectjrt-1.6.10.jar. Error code 409, Conflict
+@default-JD\ maven2\ repo1-cache-http\://artifactory.360buy-develop.com/repo1-cache/.lastUpdated=1479783267985
+http\://artifactory.360buy-develop.com/libs-snapshots/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to snapshots (http\://artifactory.360buy-develop.com/libs-snapshots)\: The operation was cancelled.
+@default-snapshots-http\://artifactory.360buy-develop.com/libs-snapshots/.lastUpdated=1479783264061
+@default-JD\ maven2\ snapshots-http\://artifactory.360buy-develop.com/libs-snapshots-local/.lastUpdated=1479783272138
+http\://artifactory.360buy-develop.com/libs-releases-local/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to JD maven2 repository (http\://artifactory.360buy-develop.com/libs-releases-local)\: The operation was cancelled.
+http\://artifactory.360buy-develop.com/repo1-cache/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to JD maven2 repo1-cache (http\://artifactory.360buy-develop.com/repo1-cache)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-JD\ maven2\ repo-http\://artifactory.360buy-develop.com/repo/.lastUpdated=1479783267071
+http\://artifactory.360buy-develop.com/repo/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.6.10 from/to JD maven2 repo (http\://artifactory.360buy-develop.com/repo)\: The operation was cancelled.

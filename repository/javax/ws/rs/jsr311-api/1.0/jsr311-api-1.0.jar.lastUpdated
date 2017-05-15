@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 10:56:05 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1479783262132
+http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783365579
+@default-JD\ maven2\ repository-http\://artifactory.360buy-develop.com/libs-releases-local/.lastUpdated=1479783265493
+@default-central-http\://artifactory.360buy-develop.com/libs-releases/.lastUpdated=1479783262767
+http\://artifactory.360buy-develop.com/libs-snapshots-local/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to JD maven2 snapshots (http\://artifactory.360buy-develop.com/libs-snapshots-local)\: Failed to transfer http\://artifactory.360buy-develop.com/libs-snapshots-local/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar. Error code 409, Conflict
+@default-JD\ maven2\ repo1-cache-http\://artifactory.360buy-develop.com/repo1-cache/.lastUpdated=1479783268194
+http\://artifactory.360buy-develop.com/libs-snapshots/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to snapshots (http\://artifactory.360buy-develop.com/libs-snapshots)\: The operation was cancelled.
+@default-snapshots-http\://artifactory.360buy-develop.com/libs-snapshots/.lastUpdated=1479783264380
+@default-JD\ maven2\ snapshots-http\://artifactory.360buy-develop.com/libs-snapshots-local/.lastUpdated=1479783272387
+@default-apache.incubating-http\://people.apache.org/repo/m2-incubating-repository/.lastUpdated=1479783268809
+http\://artifactory.360buy-develop.com/libs-releases-local/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to JD maven2 repository (http\://artifactory.360buy-develop.com/libs-releases-local)\: The operation was cancelled.
+http\://artifactory.360buy-develop.com/repo1-cache/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to JD maven2 repo1-cache (http\://artifactory.360buy-develop.com/repo1-cache)\: The operation was cancelled.
+@default-JD\ maven2\ repo-http\://artifactory.360buy-develop.com/repo/.lastUpdated=1479783267281
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+http\://people.apache.org/repo/m2-incubating-repository/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to apache.incubating (http\://people.apache.org/repo/m2-incubating-repository)\: The operation was cancelled.
+http\://artifactory.360buy-develop.com/repo/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.0 from/to JD maven2 repo (http\://artifactory.360buy-develop.com/repo)\: The operation was cancelled.

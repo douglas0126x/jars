@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 17 19:20:37 CST 2017
+http\://10.1.20.6\:8081/nexus/content/repositories/public/.lastUpdated=1492428037673
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1479866686820
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.alibaba\:fastjson\:jar\:1.1.41 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.

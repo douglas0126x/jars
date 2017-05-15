@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 14:49:21 CST 2017
+org.apache.felix.utils-1.6.0.jar>nexus-releases=
+org.apache.felix.utils-1.6.0.pom>nexus-releases=
+org.apache.felix.utils-1.6.0.jar>central=
+org.apache.felix.utils-1.6.0.pom>central=

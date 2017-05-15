@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 03 11:17:31 CST 2017
+@default-http\://repository.muleforge.org/release/.lastUpdated=1488964675239
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1488964653357
+http\://repository.muleforge.org/release/.error=Could not transfer artifact junit\:junit\:pom\:4.11 from/to muleforge-repo-release (http\://repository.muleforge.org/release)\: connect timed out
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1488964655232
+http\://repo.maven.apache.org/maven2/.lastUpdated=1488964675880
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.error=
+@default-http\://repository.muleforge.org/.lastUpdated=1488964665238
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.muleforge.org/.error=Could not transfer artifact junit\:junit\:pom\:4.11 from/to muleforge-repo (http\://repository.muleforge.org)\: connect timed out
+https\://raw.github.com/henryyan/mavenrepo/master/releases/.lastUpdated=1488964651763
+http\://10.1.20.6\:8081/nexus/content/repositories/public/.lastUpdated=1493781451653

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:25:50 CST 2017
+commons-codec-1.2.jar>nexus-releases=
+commons-codec-1.2.pom>nexus-releases=
+commons-codec-1.2.jar>central=
+commons-codec-1.2.pom>central=
